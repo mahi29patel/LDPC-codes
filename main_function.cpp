@@ -32,7 +32,7 @@ cout<<"The value for k is not a perfect square. Enter again:";
 goto ss1;
 }
 n=k+2*sqrt(k)+1;
-cout<<"The value of n is "<<n<<" and the value of k is "<<k<<"."<<endl;
+cout<<"The value of n is "<<n<<" and the value of k is "<<k<<" . "<<endl;
 
 
 }
